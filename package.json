@@ -1,8 +1,8 @@
 {
   "name": "com.unigame.safearea",
-  "author": "Mefodei",
-  "displayName": "UniGame SafeArea",
-  "description": "Unity Safe Area Tool",
+  "author": "UniGameTeam",
+  "displayName": "UniGame UGUI SafeArea",
+  "description": "Safe Area Tool for Unity ",
   "unity": "2019.1",
   "version": "2020.0.0",
   "keywords": [
