@@ -1,5 +1,7 @@
-namespace GBG.SafeArea.Runtime
+namespace UniGame.SafeArea.Runtime
 {
+    using Runtime;
+    using GBG.SafeArea.Runtime;
     using UnityEngine;
 
     /// <summary>

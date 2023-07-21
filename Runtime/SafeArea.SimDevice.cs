@@ -1,4 +1,4 @@
-namespace GBG.SafeArea.Runtime
+namespace UniGame.SafeArea.Runtime
 {
      /// <summary>
     /// Simulation device that uses safe area due to a physical notch or software home bar. For use in Editor only.

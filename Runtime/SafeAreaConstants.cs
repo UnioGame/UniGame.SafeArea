@@ -1,5 +1,6 @@
 ﻿namespace GBG.SafeArea.Runtime
 {
+    using UniGame.SafeArea.Runtime;
     using UnityEngine;
 
     public class SafeAreaConstants

@@ -2,6 +2,7 @@
 
 namespace GBG.SafeArea
 {
+    using UniGame.SafeArea.Runtime;
     using Runtime;
     using UnityEditor;
 
